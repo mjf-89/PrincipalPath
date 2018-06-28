@@ -12,6 +12,7 @@ source sourceme.sh
 ```
 cd PrincipalPath/examples
 python rkm_2D.py
+python protein_channel.py
 ```
 
 # References
